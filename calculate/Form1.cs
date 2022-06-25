@@ -56,7 +56,7 @@ namespace calculate
         {
             double onen = Convert.ToDouble(textBox2.Text);
             double twow = Convert.ToDouble(textBox3.Text);
-            textBox1.Text = (onen - twow).ToString();
+            textBox1.Text = (проверка).ToString();
         }
     }
 }
